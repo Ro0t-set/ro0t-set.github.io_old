@@ -1,5 +1,10 @@
 # Research
 
+[About me](./) |
+[Research](/research) |
+[Experiance](/experiance) |
+[Projects](/projects)
+
 ## University of Bologna
 **Undergraduate Researcher**  
 *Feb 2022 - Jul 2022 | Cesena, Italy*  
