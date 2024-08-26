@@ -11,7 +11,9 @@
 - **Kubernetes**  
 - **Go**  
 Internship for master's thesis.
+
 ---
+
 ## University of Bologna
 **Teaching Assistant**  
 *2024 | Cesena, IT*  
