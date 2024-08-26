@@ -1,5 +1,10 @@
 # Experience
 
+[About me](./) |
+[Research](/research) |
+[Experiance](/experiance) |
+[Projects](/projects)
+
 ### Dallara
 **Intern, Master Degree Project**  
 *2024 | Varano de' Melegari, PR, IT*  
