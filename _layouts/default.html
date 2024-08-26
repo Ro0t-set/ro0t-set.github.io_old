@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
   
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -32,20 +33,20 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <section>
         <h2>Contact</h2>
         <ul class="contact-icons"></ul>
           <li><a href="mailto:tommasopatriti@gmail.com"><i class="fas fa-envelope"></i></a></li>
           <li><a href="https://www.instagram.com/ro0t_set"><i class="fab fa-instagram"></i></a></li>
           <li><a href="https://www.linkedin.com/in/tommaso-patriti"><i class="fab fa-linkedin"></i></a></li>
         </ul>
+
+      </header>
+      <section>
+
+      {{ content }}
+
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
