@@ -3,7 +3,7 @@
 [About me](./) |
 [Research](/research) |
 [Experiance](/experiance) |
-[Projects](/projects)
+**[Projects](/projects)**
 
 ## Piperchat
 **Microservices-based Discord clone**  
