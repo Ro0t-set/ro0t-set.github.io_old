@@ -31,6 +31,13 @@ Creation of a website (based on Django) to regulate the self-management of some 
 - **Python**  
 My first real experience within a web development office. I gained insights into the software production process and used frameworks like Django for web development.
 
+### Dallara
+**Intern, Master Degree Project**  
+*2024 | Varano de' Melegari, PR, IT*  
+- **Kubernetes**  
+- **Go**  
+Internship for master's thesis.
+
 ---
 
 ## Projects
