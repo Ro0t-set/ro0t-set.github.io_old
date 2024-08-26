@@ -1,7 +1,7 @@
 # Research
 
 [About me](./) |
-[Research](/research) |
+**[Research](/research)** |
 [Experiance](/experiance) |
 [Projects](/projects)
 
