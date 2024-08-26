@@ -2,7 +2,7 @@
 
 [About me](./) |
 [Research](/research) |
-[Experiance](/experiance) |
+**[Experiance](/experiance)** |
 [Projects](/projects)
 
 ### Dallara
