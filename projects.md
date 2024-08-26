@@ -29,3 +29,5 @@ Development of a Discord clone with a microservice-based architecture.
 - **Nginx**  
 
 Development of a PiperChat clone, changing the architecture and technology stack. I worked mainly on the deployment of the application with Kubernetes.
+
+[back](./)
