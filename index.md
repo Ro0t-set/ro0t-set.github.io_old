@@ -1,5 +1,5 @@
 # About Me
-[About me](./) |
+**[About me](./)** |
 [Research](/research) |
 [Experiance](/experiance) |
 [Projects](/projects)
