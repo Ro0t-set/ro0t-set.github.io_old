@@ -24,6 +24,8 @@
 
 Development of a Discord clone with a microservice-based architecture.
 
+---
+
 ## Piper-Kt
 **Microservices-based Discord clone**  
 [Github://**Piper-kt**](https://github.com/zucchero-sintattico/piperchat)  

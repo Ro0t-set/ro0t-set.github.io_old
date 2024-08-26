@@ -42,10 +42,6 @@ Graduated with a score of 103/110
 
 ---
 
-## Languages
-
-- **Italian**: Native Speaker
-- **English**: B2
 
 ## Coursework
 
