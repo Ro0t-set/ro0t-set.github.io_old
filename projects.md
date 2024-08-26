@@ -1,5 +1,10 @@
 # Projects
 
+[About me](./) |
+[Research](/research) |
+[Experiance](/experiance) |
+[Projects](/projects)
+
 ## Piperchat
 **Microservices-based Discord clone**  
 [Github://**Piperchat**](https://github.com/zucchero-sintattico/piperchat)  
