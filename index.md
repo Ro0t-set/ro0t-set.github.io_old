@@ -30,7 +30,7 @@ Graduated with a score of 103/110
 
 ## Skills
 
-**Git**, **Agile Development**, **Test Driven Design**, **Object-Oriented Programming**, **Functional Programming**, **Docker**, **Kubernetes**, **Java**, **Kotlin**, **Python**, **JavaScript**, **TypeScript**, **Bash**, **C**, **PHP**
+**DevOps**, **Git**, **Agile Development**, **TDD**, **DDD**, **Object-Oriented Programming**, **Functional Programming**, **Docker**, **Kubernetes**, **Java**, **Kotlin**, **Python**, **JavaScript**, **TypeScript**, **Bash**, **C**. **Go**
 
 ---
 
@@ -40,26 +40,4 @@ Graduated with a score of 103/110
 - **English**: B2
 
 
----
-
-
-## Coursework
-
-### Graduate
-- Software Process Engineering
-- Development & Programming Paradigms
-- Distributed Systems
-- Software Architectures & Platforms
-- Concurrent & Distributed Programming
-- Cybersecurity
-- Machine Learning
-- Web Programming
-
-### Undergraduate
-- Algorithms & Data Structures
-- Operating Systems
-- Object-Oriented Programming
-- Software Engineering
-- Mobile Programming
-- Embedded Systems & Internet of Things
 
