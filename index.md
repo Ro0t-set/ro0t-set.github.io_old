@@ -1,7 +1,7 @@
 # About Me
 **[About me](./)** |
 [Research](/research) |
-[Experiance](/experiance) |
+[Experiance](/experience) |
 [Projects](/projects)
 ## Education
 
