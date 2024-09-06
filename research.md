@@ -2,7 +2,7 @@
 
 [About me](./) |
 **[Research](/research)** |
-[Experiance](/experiance) |
+[Experience](/experience) |
 [Projects](/projects)
 
 ## University of Bologna
